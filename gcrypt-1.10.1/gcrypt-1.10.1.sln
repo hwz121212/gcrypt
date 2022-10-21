@@ -9,9 +9,9 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "libgpg-error", "thirdparty\
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "libgcrypt", "thirdparty\gcrypt-1.10.1\libgcrypt.vcxproj", "{5D7A23EF-09DE-4C75-8ED1-F783BAACFC7E}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "lib", "lib", "{D2D4AC77-D5F8-4AF0-8647-4B77DCFD39F4}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0_lib", "0_lib", "{D2D4AC77-D5F8-4AF0-8647-4B77DCFD39F4}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "dll", "dll", "{6DBB27AF-F96B-4368-8F0D-386D89BE7626}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1_dll", "1_dll", "{6DBB27AF-F96B-4368-8F0D-386D89BE7626}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "gpg-error", "thirdparty\gpg-error-1.45\gpg-error.vcxproj", "{D09679C2-F0E7-4CA9-A26E-76E35D5D6AD4}"
 EndProject
